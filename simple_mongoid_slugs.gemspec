@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "Simple slugs functionality for Mongoid documents"
   s.description = "Simple methods to add slug field for your model and populate it"
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "rails", "~> 3.2.6"
   s.add_dependency "mongoid", "~> 3.0.1"
