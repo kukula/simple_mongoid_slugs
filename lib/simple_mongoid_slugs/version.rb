@@ -1,0 +1,3 @@
+module SimpleMongoidSlugs
+  VERSION = "0.0.1"
+end
